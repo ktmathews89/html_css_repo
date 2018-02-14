@@ -1,0 +1,17 @@
+/*
+darkest_grey: #131720
+dark_grey: #2F3544
+medium_grey: #3B4253
+light_grey: #4F5E71
+
+yellow: #F3BD60
+blue: #657FCA
+green: #46CE90
+red: #E86F5C
+teal: #5DA3BC
+*/
+
+body {
+    font-family: Lato;
+    background-color: #3B4253
+}
